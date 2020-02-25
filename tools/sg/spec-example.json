@@ -1,0 +1,7 @@
+[
+  {
+    "name": "SelectStmtFromTable",
+    "inline": ["SelectStmtBasic", "TableRefsClause", "WhereClauseOptional", "SelectStmtGroup", "HavingClause", "WindowClauseOptional", "WhereClause", "GroupByClause", "TableRefs"],
+    "nosplit": true
+  }
+]

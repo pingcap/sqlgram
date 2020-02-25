@@ -53,7 +53,7 @@ Global Flags:
 for example:
 
 ```
-./sg bnf /tmp/2 --addr https://raw.githubusercontent.com/pingcap/parser/master/parser.y --spec /home/robi/Code/go/src/github.com/pingcap/sqlgram/tools/sg/spec-example.json
+./sg bnf /tmp/2 --addr https://raw.githubusercontent.com/pingcap/parser/master/parser.y --spec https://raw.githubusercontent.com/pingcap/sqlgram/gh-pages/tools/sg/spec-example.json
 ```
 
 #### customize spec.json to get part of stmt
